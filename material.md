@@ -6,3 +6,16 @@
 # cd vuetutorial
 # npm run serve
 ```
+
+# VSCode Erweiterungen
+
+```
+gitlens
+Vetur
+```
+
+# installation Bootstrap
+
+```
+# npm install --save bootstrap
+```
