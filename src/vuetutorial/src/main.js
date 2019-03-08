@@ -7,4 +7,9 @@ Vue.use(Bootstrap);
 
 new Vue({
   render: function (h) { return h(App) },
+  data: function () { return {
+    currentLocation: ""
+  }
+    
+  }
 }).$mount('#app')
